@@ -367,3 +367,4 @@ FodyWeavers.xsd
 *.sln
 Main.cpp
 MainToConvertToMadness.cpp
+!/src/Main.cpp
